@@ -5589,6 +5589,9 @@ ul.footer-nav li a:hover {
 
 .beefy {
 	font-size: 1.5em !important;
+    max-width: 60%;
+    margin: auto;
+    margin-bottom: 50px;
 }
 
 
