@@ -5596,6 +5596,11 @@ ul.footer-nav li a:hover {
 
 
 
+.glow:hover{
+	color: #e09d00;
+	text-shadow: 1px 2px #f9d47d;;
+}
+
 
 
 .services-3 {
