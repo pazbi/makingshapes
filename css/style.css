@@ -5589,8 +5589,6 @@ ul.footer-nav li a:hover {
 
 .beefy {
 	font-size: 1.5em !important;
-    max-width: 60%;
-    margin: auto;
     margin-bottom: 50px;
 }
 
@@ -5677,4 +5675,9 @@ ul.footer-nav li a:hover {
 
 .navbar-collapse {
 	max-height: 340px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
 }
