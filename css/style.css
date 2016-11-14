@@ -3147,7 +3147,7 @@ and (max-width : 767px)
 and (min-width : 551px){
     
      #portfolio-list li {
-      width: 49.9%;
+      width: 100%;
   }
 	  .navbar-default .navbar-brand {
 	    color: lightgrey;
